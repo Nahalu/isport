@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/isport/static/css/main.b100e6da.chunk.css",
+    "main.js": "/isport/static/js/main.8b4fcc6d.chunk.js",
+    "main.js.map": "/isport/static/js/main.8b4fcc6d.chunk.js.map",
+    "runtime-main.js": "/isport/static/js/runtime-main.6d4575f0.js",
+    "runtime-main.js.map": "/isport/static/js/runtime-main.6d4575f0.js.map",
+    "static/js/2.26bcce0e.chunk.js": "/isport/static/js/2.26bcce0e.chunk.js",
+    "static/js/2.26bcce0e.chunk.js.map": "/isport/static/js/2.26bcce0e.chunk.js.map",
+    "index.html": "/isport/index.html",
+    "precache-manifest.80e5036451f52984289843fa2c9f3c30.js": "/isport/precache-manifest.80e5036451f52984289843fa2c9f3c30.js",
+    "service-worker.js": "/isport/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/isport/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d4575f0.js",
+    "static/js/2.26bcce0e.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.8b4fcc6d.chunk.js"
+  ]
+}

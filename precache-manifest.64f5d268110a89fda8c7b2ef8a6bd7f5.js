@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a051a3ddb35f3e2878fc7f8647fe5c23",
+    "revision": "5b853fcfd07bb186323692d1c9526278",
     "url": "/isport/index.html"
   },
   {
-    "revision": "5d4bdc7fccf5fdaff55c",
+    "revision": "7988286cd9ba51d9059b",
     "url": "/isport/static/css/main.9b8fe23d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/isport/static/js/2.8679e3a9.chunk.js"
   },
   {
-    "revision": "5d4bdc7fccf5fdaff55c",
-    "url": "/isport/static/js/main.4b9d3c64.chunk.js"
+    "revision": "7988286cd9ba51d9059b",
+    "url": "/isport/static/js/main.6759b6a2.chunk.js"
   },
   {
     "revision": "02f51dc8999b14f61e16",

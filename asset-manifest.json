@@ -1,23 +1,27 @@
 {
   "files": {
     "main.css": "/isport/static/css/main.9b8fe23d.chunk.css",
-    "main.js": "/isport/static/js/main.09cad1d9.chunk.js",
-    "main.js.map": "/isport/static/js/main.09cad1d9.chunk.js.map",
+    "main.js": "/isport/static/js/main.4b9d3c64.chunk.js",
+    "main.js.map": "/isport/static/js/main.4b9d3c64.chunk.js.map",
     "runtime-main.js": "/isport/static/js/runtime-main.6d4575f0.js",
     "runtime-main.js.map": "/isport/static/js/runtime-main.6d4575f0.js.map",
-    "static/js/2.2e4bd94d.chunk.js": "/isport/static/js/2.2e4bd94d.chunk.js",
-    "static/js/2.2e4bd94d.chunk.js.map": "/isport/static/js/2.2e4bd94d.chunk.js.map",
+    "static/js/2.8679e3a9.chunk.js": "/isport/static/js/2.8679e3a9.chunk.js",
+    "static/js/2.8679e3a9.chunk.js.map": "/isport/static/js/2.8679e3a9.chunk.js.map",
     "index.html": "/isport/index.html",
-    "precache-manifest.01f6dcfecf26b8deb864a1aff283065c.js": "/isport/precache-manifest.01f6dcfecf26b8deb864a1aff283065c.js",
+    "precache-manifest.809d3d8175c72aca736aeeef81ae3538.js": "/isport/precache-manifest.809d3d8175c72aca736aeeef81ae3538.js",
     "service-worker.js": "/isport/service-worker.js",
     "static/css/main.9b8fe23d.chunk.css.map": "/isport/static/css/main.9b8fe23d.chunk.css.map",
+    "static/media/dusotoir.jpg": "/isport/static/media/dusotoir.41323a48.jpg",
+    "static/media/federer.jpg": "/isport/static/media/federer.84f1bd7c.jpg",
     "static/media/mailloo.png": "/isport/static/media/mailloo.ca75d1c9.png",
-    "static/media/podoo.png": "/isport/static/media/podoo.9d55a56d.png"
+    "static/media/perf.png": "/isport/static/media/perf.a0115432.png",
+    "static/media/podoo.png": "/isport/static/media/podoo.9d55a56d.png",
+    "static/media/usain.jpg": "/isport/static/media/usain.2526dc2b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6d4575f0.js",
-    "static/js/2.2e4bd94d.chunk.js",
+    "static/js/2.8679e3a9.chunk.js",
     "static/css/main.9b8fe23d.chunk.css",
-    "static/js/main.09cad1d9.chunk.js"
+    "static/js/main.4b9d3c64.chunk.js"
   ]
 }
